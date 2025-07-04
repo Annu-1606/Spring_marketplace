@@ -1,0 +1,7 @@
+com/microservice/h2db/model/Product.class
+com/microservice/h2db/H2DBApplication.class
+com/microservice/h2db/Repository/OrderItemRepository.class
+com/microservice/h2db/model/Wallet.class
+com/microservice/h2db/model/Order.class
+com/microservice/h2db/model/OrderItem.class
+com/microservice/h2db/Repository/ProductRepository.class

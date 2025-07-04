@@ -1,0 +1,11 @@
+spring.application.name=marketplace-service
+server.port=8080
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.username=sa
+spring.datasource.password=
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+# Ensure Jackson is enabled for deserialization
+spring.jackson.serialization.WRITE_DATES_AS_TIMESTAMPS=false
+spring.jackson.deserialization.FAIL_ON_UNKNOWN_PROPERTIES=false
+
