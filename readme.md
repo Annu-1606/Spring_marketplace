@@ -75,11 +75,4 @@ DELETE /orders/{id} → Cancel order (refund & stock restore)
 Wallet Service
 PUT /wallets/{id} → Debit/Credit wallet
 
-🚀 Highlights
-🎉 10% discount on first order per user
 
-🔄 Order cancellation refunds wallet balance & restores stock
-
-🐳 Dockerized for portability
-
-⚖️ Scales on Minikube with load-balanced Marketplace replicas
